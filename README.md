@@ -9,4 +9,4 @@
 [![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassanss1&theme=ayu-mirage&show_icons=true&count_private=true&custom_title=Hassan%27s%20GitHub%20Stats)](https://github.com/hassanss1/github-readme-stats)
 
 [![Hassan's Rocketseat profile](https://img.shields.io/badge/Profile-Rocketseat-blueviolet?style=flat&labelColor=0D0D0D&Color=white)](https://app.rocketseat.com.br/me/hassan-s-00428)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-0D0D0D?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://app.rocketseat.com.br/me/hassan-s-00428)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0D0D0D?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/hassan-serrano-saade-17844a25/)
