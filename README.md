@@ -7,3 +7,6 @@
 - ⚡ Fun fact: I am also a Transcendental Meditation Certified Teacher and regular practitioner for more than 12 years. A settled and coherent brain is more creative, learns quicker, behaves harmoniously, emotionally balanced and produces
 
 [![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassanss1)](https://github.com/hassanss1/github-readme-stats)
+
+[![Hassan's Rocketseat profile](https://img.shields.io/badge/Profile-Rocketseat-blueviolet?style=flat)](https://app.rocketseat.com.br/me/hassan-s-00428)
+[![Hassan's Linkedin profile](https://img.shields.io/badge/-Linkedin-00FF00?style=flat&labelColor=0D0D0D&logo=Linkedin&color=white)](https://app.rocketseat.com.br/me/hassan-s-00428)
