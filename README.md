@@ -1,4 +1,4 @@
-### Hi there, I am Hassan! 👋
+## Hi there, I am Hassan! 👋
 
 - 🔭 I’m currently working on Customer Support Expert @MaharishiFoundationInternational
 - 🌱 I’m currently learning JavaScript, React Native, Node.js, AWS Cloud Technical Essentials
